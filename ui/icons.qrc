@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/stocks.png</file>
+  </qresource>
+</RCC>
